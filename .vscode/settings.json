@@ -7,7 +7,8 @@
   "python.linting.pylintArgs": [
     "--disable=missing-class-docstring",
     "--disable=missing-module-docstring",
-    "--disable=missing-function-docstring"
+    "--disable=missing-function-docstring",
+    "--disable=unused-import"
   ],
   "python.formatting.provider": "black",
   "python.linting.mypyArgs": [
@@ -18,5 +19,5 @@
     "--strict"
   ],
   "files.autoSave": "afterDelay",
-  "python.linting.flake8Args": ["--ignore=E501"]
+  "python.linting.flake8Args": ["--ignore=E501, F401"]
 }
