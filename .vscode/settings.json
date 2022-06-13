@@ -16,7 +16,8 @@
     "--ignore-missing-imports",
     "--show-column-numbers",
     "--no-pretty",
-    "--strict"
+    "--strict",
+    "--disallow-subclassing-any=False"
   ],
   "files.autoSave": "afterDelay",
   "python.linting.flake8Args": ["--ignore=E501, F401"]
