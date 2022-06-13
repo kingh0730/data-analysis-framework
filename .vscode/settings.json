@@ -9,5 +9,14 @@
     "--disable=missing-module-docstring",
     "--disable=missing-function-docstring"
   ],
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "python.linting.mypyArgs": [
+    "--follow-imports=silent",
+    "--ignore-missing-imports",
+    "--show-column-numbers",
+    "--no-pretty",
+    "--strict"
+  ],
+  "files.autoSave": "afterDelay",
+  "python.linting.flake8Args": ["--ignore=E501"]
 }
