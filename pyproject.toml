@@ -9,10 +9,9 @@ python = ">=3.10,<3.11"
 pandas = "^1.4.2"
 scipy = "^1.8.1"
 ipykernel = "^6.13.1"
-autopep8 = "^1.6.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^7.1.2"
 autopep8 = "^1.6.0"
 flake8 = "^4.0.1"
 pylint = "^2.14.1"
