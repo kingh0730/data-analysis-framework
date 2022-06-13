@@ -24,7 +24,7 @@ print(value_ontologies)
 # %%
 indexes_info["value_ontology"] = value_ontologies
 indexes_info.to_csv("../temp/daas_index_list_value_ontologies.csv")
-print("Done.")
+print(indexes_info)
 
 
 # %%
