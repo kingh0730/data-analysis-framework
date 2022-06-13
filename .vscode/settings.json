@@ -8,5 +8,6 @@
     "--disable=missing-class-docstring",
     "--disable=missing-module-docstring",
     "--disable=missing-function-docstring"
-  ]
+  ],
+  "python.formatting.provider": "black"
 }
