@@ -8,6 +8,7 @@ authors = ["shangdian.han <shangdian.han@2861.wiki>"]
 python = ">=3.10,<3.11"
 pandas = "^1.4.2"
 scipy = "^1.8.1"
+ipykernel = "^6.13.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
