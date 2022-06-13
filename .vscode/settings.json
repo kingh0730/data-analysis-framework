@@ -2,7 +2,7 @@
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
   "python.linting.flake8Enabled": true,
-  "cSpell.words": ["GOVS"],
+  "cSpell.words": ["daas", "GOVS"],
   "python.linting.mypyEnabled": true,
   "python.linting.pylintArgs": [
     "--disable=missing-class-docstring",
