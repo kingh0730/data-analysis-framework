@@ -16,8 +16,11 @@
     "--ignore-missing-imports",
     "--show-column-numbers",
     "--no-pretty",
-    "--strict",
-    "--disallow-subclassing-any=False"
+    "--disallow-untyped-calls",
+    "--disallow-untyped-defs",
+    "--disallow-incomplete-defs",
+    "--check-untyped-defs",
+    "--disallow-untyped-decorators"
   ],
   "files.autoSave": "afterDelay",
   "python.linting.flake8Args": ["--ignore=E501, F401"]
