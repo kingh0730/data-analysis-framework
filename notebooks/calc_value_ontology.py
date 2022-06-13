@@ -1,6 +1,6 @@
 # %%
 import pandas as pd
-import my_package
+import my_package as mp
 
 
 # %%
@@ -10,8 +10,8 @@ print(names_and_units)
 
 
 # %%
-def calc_value_ontology_wrapper(name_and_unit: pd.Series) -> my_package.ValueOntology:
-    ontology = my_package.calc_value_ontology(
+def calc_value_ontology_wrapper(name_and_unit: pd.Series) -> mp.ValueOntology:
+    ontology = mp.calc_value_ontology(
         name_and_unit["index_name"], name_and_unit["unit"]
     )
     return ontology
