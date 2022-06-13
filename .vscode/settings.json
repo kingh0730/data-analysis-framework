@@ -1,5 +1,12 @@
 {
-  "python.linting.pylintEnabled": false,
+  "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
-  "python.linting.flake8Enabled": true
+  "python.linting.flake8Enabled": true,
+  "cSpell.words": ["GOVS"],
+  "python.linting.mypyEnabled": true,
+  "python.linting.pylintArgs": [
+    "--disable=missing-class-docstring",
+    "--disable=missing-module-docstring",
+    "--disable=missing-function-docstring"
+  ]
 }
