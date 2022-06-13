@@ -6,6 +6,7 @@ authors = ["shangdian.han <shangdian.han@2861.wiki>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pandas = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
