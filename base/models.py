@@ -11,9 +11,7 @@ class DataFrameFile(models.Model):
 class Job(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
-    input_data_frame = models.ForeignKey(
-        DataFrameFile, on_delete=models.CASCADE, related_name="input", null=True
+    input_data_frames = models.ManyToManyField(
+        DataFrameFile, related_name="input", blank=True
     )
-    output_data_frame = models.ForeignKey(
-        DataFrameFile, on_delete=models.CASCADE, related_name="output"
-    )
+    output_data_frames = models.ManyToManyField(DataFrameFile, related_name="output")
