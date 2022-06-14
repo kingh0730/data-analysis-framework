@@ -16,6 +16,10 @@ class DataFrameFile(models.Model):
     cached_file = models.FileField()
 
 
+class OneMonthGovsAndIndexes(DataFrameFile):
+    month = models.ForeignKey(Month, on_delete=models.PROTECT)
+
+
 class Job(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 

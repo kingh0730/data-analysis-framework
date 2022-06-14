@@ -6,4 +6,6 @@ from django.contrib import admin
 from . import models
 
 
-admin.site.register([models.Month, models.DataFrameFile, models.Job])
+admin.site.register(
+    [models.Month, models.DataFrameFile, models.Job, models.OneMonthGovsAndIndexes]
+)
