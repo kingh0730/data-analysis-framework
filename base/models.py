@@ -29,11 +29,11 @@ class OneMonthGovsAndIndexes(DataFrameFile):
 class Job(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
-    input_data_frames = models.ManyToManyField(
-        DataFrameFile, related_name="input", blank=True
-    )
-    output_data_frames = models.ManyToManyField(DataFrameFile, related_name="output")
-
 
 class MultivariateOutliersRemoval(Job):
-    pass
+    input = models.ForeignKey(
+        DataFrameFile, on_delete=models.PROTECT, related_name="input"
+    )
+    output = models.ForeignKey(
+        DataFrameFile, on_delete=models.PROTECT, related_name="output", null=True
+    )

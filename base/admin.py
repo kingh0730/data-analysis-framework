@@ -7,5 +7,11 @@ from . import models
 
 
 admin.site.register(
-    [models.Month, models.DataFrameFile, models.Job, models.OneMonthGovsAndIndexes]
+    [
+        models.Month,
+        models.DataFrameFile,
+        models.Job,
+        models.OneMonthGovsAndIndexes,
+        models.MultivariateOutliersRemoval,
+    ]
 )
