@@ -19,6 +19,9 @@ class DataFrameFile(models.Model):
 class OneMonthGovsAndIndexes(DataFrameFile):
     month = models.ForeignKey(Month, on_delete=models.PROTECT)
 
+    def __str__(self) -> str:
+        return f"{str(self.month)}"
+
 
 class Job(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
