@@ -29,6 +29,8 @@ class OneMonthGovsAndIndexes(DataFrameFile):
 class Job(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
+    progress = models.PositiveSmallIntegerField(null=True)
+
 
 class MultivariateOutliersRemoval(Job):
     input = models.ForeignKey(
