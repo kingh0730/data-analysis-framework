@@ -7,6 +7,9 @@ class Month(models.Model):
     month_int = models.PositiveSmallIntegerField()
     month_str = models.CharField(max_length=7)
 
+    def __str__(self) -> str:
+        return f"{self.month_str} ({self.month_int})"
+
 
 class DataFrameFile(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
