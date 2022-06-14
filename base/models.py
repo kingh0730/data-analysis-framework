@@ -15,6 +15,9 @@ class DataFrameFile(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     cached_file = models.FileField()
 
+    def __str__(self) -> str:
+        return f"{self.cached_file} ({self.created_at})"
+
 
 class OneMonthGovsAndIndexes(DataFrameFile):
     month = models.ForeignKey(Month, on_delete=models.PROTECT)
@@ -30,3 +33,7 @@ class Job(models.Model):
         DataFrameFile, related_name="input", blank=True
     )
     output_data_frames = models.ManyToManyField(DataFrameFile, related_name="output")
+
+
+class MultivariateOutliersRemoval(Job):
+    pass
