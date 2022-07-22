@@ -1,0 +1,2 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+241336,157618,42493.0,-0.5515718879087824,157618,42493,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.0209350811314593,【交通】类总舆情量（月度）（万人次）,f,舆情,网络口碑,ValueOntology.QUANTITY,1.0

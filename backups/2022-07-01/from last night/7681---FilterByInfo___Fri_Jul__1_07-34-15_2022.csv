@@ -1,0 +1,5 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+24482,65660,42620.0,0.5019860372005008,65660,42620,当地民众对生态安全的关注强度,f,舆情,生态安全,ValueOntology.SCORE,0.3449973490873285,交通设施服务；火车站；此类数据总个数,f,POI,交通设施服务,ValueOntology.QUANTITY,0.3333333333333333
+25180,65659,42620.0,0.5031316875829256,65659,42620,当地民众对生态安全的议论中负面情绪抱怨强度,f,舆情,生态安全,ValueOntology.SCORE,0.3453196563079602,交通设施服务；火车站；此类数据总个数,f,POI,交通设施服务,ValueOntology.QUANTITY,0.3333333333333333
+49674,107622,65659.0,0.5108993971769411,107622,65659,每万人火车站相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3605077907650789,当地民众对生态安全的议论中负面情绪抱怨强度,f,舆情,生态安全,ValueOntology.SCORE,0.3453196563079602
+50621,107622,65660.0,0.509755896418536,107622,65660,每万人火车站相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3605077907650789,当地民众对生态安全的关注强度,f,舆情,生态安全,ValueOntology.SCORE,0.3449973490873285

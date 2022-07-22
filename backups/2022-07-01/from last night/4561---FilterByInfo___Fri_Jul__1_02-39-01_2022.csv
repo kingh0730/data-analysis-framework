@@ -1,0 +1,3 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+192160,107428,65609.0,0.5174392149291831,107428,65609,每万人甜品店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3321531123306728,社会安全议论数,f,舆情,社会安全,ValueOntology.QUANTITY,0.391304347826087
+201429,107428,65613.0,0.5174392149291831,107428,65613,每万人甜品店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3321531123306728,社会安全每万人常住人口议论数,f,舆情,社会安全,ValueOntology.QUANTITY_PER_CAPITA,0.391304347826087

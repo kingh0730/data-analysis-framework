@@ -1,0 +1,15 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+34907,65638,56436.0,0.6352947680107313,65638,56436,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,1.0,餐饮服务；外国餐厅；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.4285714285714285
+34934,65637,56436.0,0.6728060361763728,65637,56436,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7486115472820019,餐饮服务；外国餐厅；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.4285714285714285
+79454,107398,65638.0,0.6270422865986613,107398,65638,每万人外国餐厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4297085812324184,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,1.0
+79461,107533,65638.0,-0.7122424562239187,107533,65638,每万人酒吧相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3729614456479039,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,1.0
+83337,107398,65637.0,0.6594605395859126,107398,65637,每万人外国餐厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4297085812324184,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7486115472820019
+83345,107533,65637.0,-0.6509777989068678,107533,65637,每万人酒吧相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3729614456479039,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7486115472820019
+111253,65638,56613.0,-0.701232509747335,65638,56613,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,1.0,体育休闲服务；娱乐场所；酒吧；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3333333333333333
+111278,65637,56613.0,-0.6340520593827709,65637,56613,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7486115472820019,体育休闲服务；娱乐场所；酒吧；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3333333333333333
+111279,65632,56613.0,-0.7309348111222239,65632,56613,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.4545454545454545,体育休闲服务；娱乐场所；酒吧；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3333333333333333
+111300,65634,56613.0,-0.5570505426422605,65634,56613,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0,体育休闲服务；娱乐场所；酒吧；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3333333333333333
+122498,65634,56619.0,-0.5084220097764889,65634,56619,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0,体育休闲服务；度假疗养场所；度假村；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3846153846153846
+165008,107533,65632.0,-0.7378653921898232,107533,65632,每万人酒吧相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3729614456479039,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.4545454545454545
+297431,107533,65634.0,-0.5174497666199418,107533,65634,每万人酒吧相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3729614456479039,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0
+297437,107479,65634.0,0.5141010750425501,107479,65634,每万人个人用品/化妆品店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.428570844081853,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0

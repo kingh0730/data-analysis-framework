@@ -1,0 +1,5 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+15549,107453,65632.0,-0.5509524652613381,107453,65632,每万人农副产品市场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3838120099770262,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.3333333333333333
+15652,107453,65633.0,-0.5509524652613381,107453,65633,每万人农副产品市场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3838120099770262,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.3333333333333333
+75419,65633,56508.0,-0.521322399413303,65633,56508,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.3333333333333333,购物服务；综合市场；农副产品市场；此类数据总个数,f,POI,购物服务,ValueOntology.QUANTITY,0.3838120104438642
+75763,65632,56508.0,-0.521322399413303,65632,56508,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.3333333333333333,购物服务；综合市场；农副产品市场；此类数据总个数,f,POI,购物服务,ValueOntology.QUANTITY,0.3838120104438642

@@ -1,0 +1,7 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+213107,157618,35.0,0.5334324898197688,157618,35,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.4573098645482156,民众水污染抱怨网络热度指数,f,舆情,网络热度,ValueOntology.SCORE,0.5545107258301498
+213292,157618,26.0,0.5334324898197688,157618,26,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.4573098645482156,官媒水污染治理网络热度指数,f,舆情,网络热度,ValueOntology.SCORE,0.5545107258301498
+249439,107542,54.0,-0.8099117453387299,107542,54,每万人影剧院相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4928164731775851,民众空气污染抱怨网络热度指数,f,舆情,网络热度,ValueOntology.SCORE,0.6694245435636701
+249803,56627,54.0,-0.8127691606852798,56627,54,体育休闲服务；影剧院；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.5,民众空气污染抱怨网络热度指数,f,舆情,网络热度,ValueOntology.SCORE,0.6694245435636701
+249986,107542,45.0,-0.8099117453387299,107542,45,每万人影剧院相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4928164731775851,官媒空气污染治理网络热度指数,f,舆情,网络热度,ValueOntology.SCORE,0.6694245435636701
+250350,56627,45.0,-0.8127691606852798,56627,45,体育休闲服务；影剧院；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.5,官媒空气污染治理网络热度指数,f,舆情,网络热度,ValueOntology.SCORE,0.6694245435636701

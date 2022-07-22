@@ -1,0 +1,11 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+31837,157618,107561.0,-0.5591243077081522,157618,107561,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,0.7900887770831588,每万人疾病预防机构相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3427095023473501
+46756,157618,56645.0,-0.5704449242691403,157618,56645,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,0.7900887770831588,医疗保健服务；疾病预防机构；此类数据总个数,f,POI,医疗保健服务,ValueOntology.QUANTITY,0.3333333333333333
+81154,65633,56172.0,-0.541705421466188,65633,56172,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0,购物服务；商场；普通商场；此类数据总个数,f,POI,购物服务,ValueOntology.QUANTITY,0.3333333333333333
+81407,65632,56172.0,-0.5877208336035051,65632,56172,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.7391304347826086,购物服务；商场；普通商场；此类数据总个数,f,POI,购物服务,ValueOntology.QUANTITY,0.3333333333333333
+186490,107399,65633.0,0.7370490593678704,107399,65633,每万人西餐厅(综合风味)相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.7689635257062813,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0
+186494,107432,65633.0,-0.5388353727489847,107432,65633,每万人普通商场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3356665697476156,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0
+186562,54195,65633.0,0.7341988258222436,54195,65633,餐饮服务；外国餐厅；西餐厅(综合风味)；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.7714285714285715,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0
+186711,107399,65632.0,0.7370490593678704,107399,65632,每万人西餐厅(综合风味)相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.7689635257062813,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.7391304347826086
+186718,107432,65632.0,-0.5902319064990809,107432,65632,每万人普通商场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3356665697476156,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.7391304347826086
+186793,54195,65632.0,0.7341988258222436,54195,65632,餐饮服务；外国餐厅；西餐厅(综合风味)；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.7714285714285715,生态环境近12个月议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.7391304347826086

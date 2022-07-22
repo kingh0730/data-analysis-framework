@@ -1,0 +1,4 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+60914,157618,107335.0,0.535595377759299,157618,107335,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.1509691400136437,每万人商业贸易公司相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3327474037257041
+61554,157618,44761.0,0.5452560527771062,157618,44761,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.1509691400136437,公司企业；公司；商业贸易；此类数据总个数,f,POI,公司企业,ValueOntology.QUANTITY,0.3333333333333333
+306508,56551,42367.0,-0.5007080326837637,56551,42367,生活服务；售票处；公园景点售票处；此类数据总个数,f,POI,生活服务,ValueOntology.QUANTITY,0.3333333333333333,【产业】类总舆情量（月度）（万人次）,f,舆情,网络口碑,ValueOntology.QUANTITY,0.7842355175688509

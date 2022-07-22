@@ -5,10 +5,36 @@ description = ""
 authors = ["shangdian.han <shangdian.han@2861.wiki>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = ">=3.10,<3.11"
+pandas = "^1.4.2"
+scipy = "^1.8.1"
+ipykernel = "^6.13.1"
+openpyxl = "^3.0.10"
+Django = "^4.0.5"
+requests = "^2.28.0"
+pycryptodome = "^3.14.1"
+WMI = "^1.5.1"
+matplotlib = "^3.5.2"
+streamlit = "^1.10.0"
+plotly = "^5.8.2"
+plotly-express = "^0.4.1"
+sklearn = "^0.0"
+graphviz = "^0.20"
+streamlit-agraph = "^0.0.37"
+aiohttp = "^3.8.1"
+mlxtend = "^0.20.0"
+dtw-python = "^1.1.14"
+dtw = "^1.4.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^7.1.2"
+autopep8 = "^1.6.0"
+flake8 = "^4.0.1"
+pylint = "^2.14.1"
+mypy = "^0.961"
+black = "^22.3.0"
+types-requests = "^2.27.30"
+pylint-django = "^2.5.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

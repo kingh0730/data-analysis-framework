@@ -1,0 +1,7 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+271034,107420,65613.0,-0.5337786018418537,107420,65613,每万人咖啡厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3253655140403806,社会安全每万人常住人口议论数,f,舆情,社会安全,ValueOntology.QUANTITY_PER_CAPITA,0.5409714413827044
+271173,107420,65609.0,-0.5337038073462856,107420,65609,每万人咖啡厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3253655140403806,社会安全议论数,f,舆情,社会安全,ValueOntology.QUANTITY,0.5409836065573771
+292952,65613,54197.0,-0.5427475312346847,65613,54197,社会安全每万人常住人口议论数,f,舆情,社会安全,ValueOntology.QUANTITY_PER_CAPITA,0.5409714413827044,餐饮服务；咖啡厅；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.3333333333333333
+293215,65609,54197.0,-0.5425940942546784,65609,54197,社会安全议论数,f,舆情,社会安全,ValueOntology.QUANTITY,0.5409836065573771,餐饮服务；咖啡厅；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.3333333333333333
+508479,107482,157618.0,0.5913390714643049,107482,157618,每万人信息咨询中心相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3333333333333333,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,0.9864964144035532
+508480,56541,157618.0,0.5912309529085122,56541,157618,生活服务；信息咨询中心；此类数据总个数,f,POI,生活服务,ValueOntology.QUANTITY,0.3333333333333333,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,0.9864964144035532

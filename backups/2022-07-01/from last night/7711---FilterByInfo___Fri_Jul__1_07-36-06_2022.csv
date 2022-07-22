@@ -1,0 +1,17 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+28729,157618,107343.0,0.7563650454219941,157618,107343,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,0.7301130705990025,每万人台球厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.5032174397419086
+29638,65633,56600.0,-0.5436978001933295,65633,56600,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6,体育休闲服务；运动场馆；台球厅；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.5
+29692,157618,56600.0,0.7563457712237551,157618,56600,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,0.7301130705990025,体育休闲服务；运动场馆；台球厅；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.5
+56381,65633,56466.0,-0.7359848972827567,65633,56466,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6,餐饮服务；冷饮店；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.3559322033898305
+63075,65633,56534.0,-0.6185817162548043,65633,56534,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6,购物服务；专卖店；土特产专卖店；此类数据总个数,f,POI,购物服务,ValueOntology.QUANTITY,0.3333333333333333
+65738,107351,65637.0,-0.5572742930928188,107351,65637,每万人汽车服务洗车场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4967679713757502,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.353117323757134
+76623,107343,65633.0,-0.5458973548036858,107343,65633,每万人台球厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.5032174397419086,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6
+76625,107426,65633.0,-0.7378750868908464,107426,65633,每万人冷饮店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3596811931011245,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6
+76629,107478,65633.0,-0.6209556622488378,107478,65633,每万人土特产专卖店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3371488959772072,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6
+76630,107481,65633.0,0.8419043886540972,107481,65633,每万人旅行社相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.5979339384080851,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6
+83352,65637,56187.0,-0.5528592477668116,65637,56187,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.353117323757134,汽车服务；洗车场；此类数据总个数,f,POI,汽车服务,ValueOntology.QUANTITY,0.5
+186690,65631,56540.0,0.5520356675052119,65631,56540,社会安全连续12个月加权每万人常住人口负面议论数,f,舆情,社会安全,ValueOntology.QUANTITY_PER_CAPITA,0.3040573033774684,生活服务；旅行社；此类数据总个数,f,POI,生活服务,ValueOntology.QUANTITY,0.6
+186907,65633,56540.0,0.8445947804880007,65633,56540,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.6,生活服务；旅行社；此类数据总个数,f,POI,生活服务,ValueOntology.QUANTITY,0.6
+186946,65638,56540.0,0.7720129824404192,65638,56540,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.3519261268653519,生活服务；旅行社；此类数据总个数,f,POI,生活服务,ValueOntology.QUANTITY,0.6
+203559,107481,65638.0,0.771827971854917,107481,65638,每万人旅行社相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.5979339384080851,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.3519261268653519
+203809,107481,65631.0,0.5508788230020278,107481,65631,每万人旅行社相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.5979339384080851,社会安全连续12个月加权每万人常住人口负面议论数,f,舆情,社会安全,ValueOntology.QUANTITY_PER_CAPITA,0.3040573033774684

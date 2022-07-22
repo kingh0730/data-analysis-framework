@@ -1,0 +1,17 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+25629,107533,65633.0,-0.770637633588732,107533,65633,每万人酒吧相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4368072814595035,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0
+25734,107356,65633.0,-0.5333672783583846,107356,65633,每万人汽车销售相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3333333333333333,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0
+25774,107494,65633.0,-0.741683214116551,107494,65633,每万人中国电信营业厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3714287459917743,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0
+25814,157618,65633.0,-0.5753985828578582,157618,65633,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.1631878557874773,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0
+77128,65634,56613.0,-0.7120689949163119,65634,56613,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0,体育休闲服务；娱乐场所；酒吧；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3333333333333333
+77500,65633,56613.0,-0.771689497716895,65633,56613,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0,体育休闲服务；娱乐场所；酒吧；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3333333333333333
+77648,157618,56613.0,0.5222508133623633,157618,56613,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.1631878557874773,体育休闲服务；娱乐场所；酒吧；此类数据总个数,f,POI,体育休闲服务,ValueOntology.QUANTITY,0.3333333333333333
+100775,157618,107533.0,0.6173673808991081,157618,107533,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.1631878557874773,每万人酒吧相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4368072814595035
+109391,157618,107494.0,0.7519116035486079,157618,107494,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.1631878557874773,每万人中国电信营业厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3714287459917743
+141449,107533,65634.0,-0.6343742653299124,107533,65634,每万人酒吧相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4368072814595035,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0
+141555,107356,65634.0,-0.5308105637531462,107356,65634,每万人汽车销售相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3333333333333333,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0
+150882,65634,56466.0,-0.5858500994137075,65634,56466,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,1.0,餐饮服务；冷饮店；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.3333333333333333
+151071,65633,56466.0,-0.5771961789944906,65633,56466,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,1.0,餐饮服务；冷饮店；此类数据总个数,f,POI,餐饮服务,ValueOntology.QUANTITY,0.3333333333333333
+168660,107356,42439.0,-0.5187720578806881,107356,42439,每万人汽车销售相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3333333333333333,【养老】类热点影响力（月度）（万人次）,f,舆情,网络口碑,ValueOntology.QUANTITY,1.0
+170125,107494,65637.0,0.5044288994057335,107494,65637,每万人中国电信营业厅相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3714287459917743,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.6666666666666666
+170138,157618,65637.0,0.5868273365788126,157618,65637,空气质量同比改善率,f,环境,,ValueOntology.DIFF_RATE,1.1631878557874773,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.6666666666666666

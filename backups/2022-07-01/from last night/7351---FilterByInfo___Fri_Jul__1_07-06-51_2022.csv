@@ -1,0 +1,13 @@
+,index_id1,index_id2,value,comment1,comment2,index_name1,year_period1,type1,sub_type1,value_ontology1,dispersion1,index_name2,year_period2,type2,sub_type2,value_ontology2,dispersion2
+9567,107568,65633.0,0.5377695103343109,107568,65633,每万人宾馆酒店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3532710389773814,生态环境近12个月负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY,0.5
+12547,107568,65638.0,0.651592867814045,107568,65638,每万人宾馆酒店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3532710389773814,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7001613613026257
+12709,107634,65638.0,-0.7072549149736115,107634,65638,每万人银行相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4099430904682914,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7001613613026257
+12758,107454,65638.0,0.6087211557209496,107454,65638,每万人果品市场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3532712282392933,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7001613613026257
+57948,65638,54193.0,-0.6951612800324329,65638,54193,生态环境连续12个月加权每万人常住人口负面议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.7001613613026257,金融保险服务；银行；此类数据总个数,f,POI,金融保险服务,ValueOntology.QUANTITY,0.4285714285714285
+57965,65637,54193.0,-0.510476345532989,65637,54193,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.354309855602497,金融保险服务；银行；此类数据总个数,f,POI,金融保险服务,ValueOntology.QUANTITY,0.4285714285714285
+71835,107568,65634.0,0.6200741405475503,107568,65634,每万人宾馆酒店相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3532710389773814,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,0.3333333333333333
+90922,107634,65637.0,-0.5714992225897525,107634,65637,每万人银行相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.4099430904682914,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.354309855602497
+90976,107491,65637.0,0.5265873755400738,107491,65637,每万人物流速递相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3532712282392933,生态环境连续12个月加权每万人常住人口议论数,f,舆情,生态安全,ValueOntology.QUANTITY_PER_CAPITA,0.354309855602497
+101496,65634,793.0,0.5074404213961728,65634,793,当地民众对生态环境的议论中携带负面情绪的占比,f,舆情,生态安全,ValueOntology.PERCENTAGE,0.3333333333333333,公交县到县线路总条数,f,交通,公交,ValueOntology.QUANTITY,0.3383458646616541
+101706,107454,65609.0,0.5499368895218092,107454,65609,每万人果品市场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3532712282392933,社会安全议论数,f,舆情,社会安全,ValueOntology.QUANTITY,0.6
+101860,107454,65613.0,0.55271949153931,107454,65613,每万人果品市场相关兴趣点数量,f,POI,平均每万人相关兴趣点数,ValueOntology.QUANTITY_PER_CAPITA,0.3532712282392933,社会安全每万人常住人口议论数,f,舆情,社会安全,ValueOntology.QUANTITY_PER_CAPITA,0.6021085553910045
