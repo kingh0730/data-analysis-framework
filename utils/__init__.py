@@ -12,7 +12,7 @@ from scipy.stats import variation
 from . import zk2861api
 from . import gov_bar_data
 
-SECURE_KEY = "NDRkOGJlZTFkMDQzMjUwZTQ0ZjIyMmU5YjIwY2U0NDU="
+SECURE_KEY = "...SECURE_KEY"
 zk2861api.ENCRYPT_ENABLE = 0
 
 
